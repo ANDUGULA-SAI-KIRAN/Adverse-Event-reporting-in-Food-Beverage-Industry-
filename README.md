@@ -64,21 +64,20 @@ The visualization project delves into the adverse effects experienced by consume
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/Adverse-Event-reporting-in-Food-Beverage-Industry-/assets/143734802/8dd78f4b-6c0c-488d-97e1-0a71cac26de4)
 ### **Insights**
 
-**1. Top 5 reported symptoms:** Diarrhoea, Vomiting, Ovarian Cancer, Nausea, Choking.
-**2. Severe symptoms mostly linked to 'Vit/Min/Prot/Unconv Diet (Human/Animal)' products, except Ovarian Cancer from Cosmetics.**
-**3. Choking was mainly caused by Nuts/Edible Seed and Vegetable products.**
-**4. Year-on-year growth shows significant increases in symptoms like Abdominal Pain, Diarrhoea, and Malaise.**
-
+1. Top 5 reported symptoms: **Diarrhoea**, **Vomiting**, **Ovarian Cancer**, **Nausea**, **Choking**.
+2. Severe symptoms mostly linked to '**Vit/Min/Prot/Unconv Diet (Human/Animal)**' products, except **Ovarian Cancer** from Cosmetics.
+3. **Choking** was mainly caused by **Nuts/Edible Seed** and **Vegetable** products.
+4. Year-on-year growth shows significant increases in symptoms like **Abdominal Pain**, **Diarrhoea**, and **Malaise**.
 
 ## **Consumer Demographics Analysis**
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/Adverse-Event-reporting-in-Food-Beverage-Industry-/assets/143734802/0f328e44-748b-4205-8d75-33ea39a3a575)
 
 ### **Insights**
 
-1. Top 5 reported symptoms: **Diarrhoea**, **Vomiting**, **Ovarian Cancer**, **Nausea**, **Choking**.
-2. Severe symptoms mostly linked to '**Vit/Min/Prot/Unconv Diet (Human/Animal)**' products, except **Ovarian Cancer** from Cosmetics.
-3. **Choking** was mainly caused by **Nuts/Edible Seed** and **Vegetable** products.
-4. Year-on-year growth shows significant increases in symptoms like **Abdominal Pain**, **Diarrhoea**, and **Malaise**.
+1. Middle Age Adults (40-60 years) are most affected, followed by Young Adults (20-40 years).
+2. Females experience more **Serious** outcomes, males more **Non-Serious**; Unknown gender outcomes are mostly **Non-Serious**.
+3. Females constitute 63% of cases, males 30%.
+4. Clustering analysis shows distinct groups based on products, symptoms, and severity.
 
 
 
