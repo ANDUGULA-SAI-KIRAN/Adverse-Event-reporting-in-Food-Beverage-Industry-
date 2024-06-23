@@ -43,34 +43,58 @@ The visualization project delves into the adverse effects experienced by consume
 
 ## **Dashboard Overview**
 
-![image](https://github.com/ANDUGULA-SAI-KIRAN/Adverse-Event-reporting-in-Food-Beverage-Industry-/assets/143734802/b595ae4f-f8e7-4168-bd91-eca1b4d917a6)
+![image](https://github.com/ANDUGULA-SAI-KIRAN/Adverse-Event-reporting-in-Food-Beverage-Industry-/assets/143734802/23be559a-dabb-4c25-ae93-4f0bfc4bd87e)
 
-## **Siverity and Symptoms Analysis**
+
+## **Siverity and Outcome Analysis**
 
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/Adverse-Event-reporting-in-Food-Beverage-Industry-/assets/143734802/db064bc8-2fea-401c-907d-ebd45b08f748)
 
 ### **Insights**
 
-1. The majority of adverse events reported are Serious, indicating a significant impact.
-2. This is followed by Non-Serious and Hospitalization cases.
-3. Life-threatening outcomes such as Death and Disability are relatively low in percentage.
-4. Products related to the Vit/Min/Prot/Unconv Diet (Human/Animal) Industry primarily cause Serious, Hospitalization, and life-threatening outcomes.
-5. Redacted is the most risky product category resulting in Serious outcomes.
-6. Non-Serious outcomes have the highest percentage, closely followed by Serious outcomes.
+1. Majority of adverse events reported are **Serious**, indicating significant impact.
+2. Followed by **Non-Serious** and **Hospitalization** cases.
+3. **Life-threatening** outcomes like **Death** and **Disability** are relatively low in percentage.
+4. Products related to **Vit/Min/Prot/Unconv Diet (Human/Animal)** Industry primarily cause **Serious**, **Hospitalization**, and life-threatening outcomes.
+5. **Redacted** is the most risky product category resulting in **Serious** outcomes.
+6. **Non-Serious** outcomes have the highest percentage, closely followed by **Serious** outcomes.
 
 
-## **Consumer Demographics Analysis**
+## **Symptom Analysis**
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/Adverse-Event-reporting-in-Food-Beverage-Industry-/assets/143734802/8dd78f4b-6c0c-488d-97e1-0a71cac26de4)
+### **Insights**
 
 **1. Top 5 reported symptoms:** Diarrhoea, Vomiting, Ovarian Cancer, Nausea, Choking.
 **2. Severe symptoms mostly linked to 'Vit/Min/Prot/Unconv Diet (Human/Animal)' products, except Ovarian Cancer from Cosmetics.**
 **3. Choking was mainly caused by Nuts/Edible Seed and Vegetable products.**
 **4. Year-on-year growth shows significant increases in symptoms like Abdominal Pain, Diarrhoea, and Malaise.**
 
+
+## **Consumer Demographics Analysis**
+![image](https://github.com/ANDUGULA-SAI-KIRAN/Adverse-Event-reporting-in-Food-Beverage-Industry-/assets/143734802/0f328e44-748b-4205-8d75-33ea39a3a575)
+
+### **Insights**
+
+1. Top 5 reported symptoms: **Diarrhoea**, **Vomiting**, **Ovarian Cancer**, **Nausea**, **Choking**.
+2. Severe symptoms mostly linked to '**Vit/Min/Prot/Unconv Diet (Human/Animal)**' products, except **Ovarian Cancer** from Cosmetics.
+3. **Choking** was mainly caused by **Nuts/Edible Seed** and **Vegetable** products.
+4. Year-on-year growth shows significant increases in symptoms like **Abdominal Pain**, **Diarrhoea**, and **Malaise**.
+
+
+
 ## **Adverse Event Report Trend Analysis**
 
 ![image](https://github.com/ANDUGULA-SAI-KIRAN/Adverse-Event-reporting-in-Food-Beverage-Industry-/assets/143734802/ba896557-db74-4366-b09a-81afbbe39cd1)
 
+### **Insights**
+
+1. Bars show yearly total reported cases trend; line chart displays year-on-year % change.
+2. Highest cases in 2016, significant decline in 2017.
+3. Average time lag highest for General Physician Visit cases.
+4. Severe outcome cases have shorter average time lag.
+5. Adverse events related to **Vitamin D** and **Redacted** products show higher time lag.
+6. Forecast for 2018 higher than 2017 but around previous averages.
+7. High correlation between **Non-Serious** outcomes and common symptoms; Significant correlation between **Serious** outcomes and specific symptoms like **choking**, **ovarian cancer**.
 
 
 
